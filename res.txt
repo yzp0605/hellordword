@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+HEAD
 ﻿123上课了大家垃圾收到了房间里撒打开弗兰克斯达萨罗快放假啦
 =======
 ﻿123sadfsdfsadsdfsadfsdfsdfsd
->>>>>>> 98a8026af7ea50ffa51c56f54475ea7865695b37
+98a8026af7ea50ffa51c56f54475ea7865695b37
